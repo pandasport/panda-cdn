@@ -1,0 +1,18 @@
+{
+  "name": "panda-cdn",
+  "version": "latest",
+  "description": "A CDN utility package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "cdn",
+    "utility"
+  ],
+  "author": "Panda Team",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
